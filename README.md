@@ -1,6 +1,77 @@
 TryHackMe Cybersecurity Roadmap — 0 Knowledge → Advanced
 
-A prerequisite-first learning roadmap built from the supplied TryHackMe room catalogue.
+<div align="center">
+
+<a href="https://tryhackme.com/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=TryHackMe%20Cybersecurity%20Roadmap&fontSize=38&fontAlignY=38&desc=0%20Knowledge%20%20%E2%86%92%20%20Advanced&descAlignY=58&animation=twinkling&fontColor=ffffff" alt="Animated TryHackMe Cybersecurity Roadmap header"/>
+</a>
+
+<br/>
+
+<a href="https://tryhackme.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=Learn+%E2%86%92+Reproduce+%E2%86%92+Attack+%E2%86%92+Document;Walkthroughs+first.+Challenges+second.;Prerequisite-first.+No+random+room+grinding.;0+Knowledge+%E2%86%92+Independent+Cybersecurity+Practice" alt="Animated roadmap typing text"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ROADMAP-0%20%E2%86%92%20ADVANCED-111827?style=for-the-badge&labelColor=0b1220" alt="Roadmap"/>
+<img src="https://img.shields.io/badge/ROOMS-648%20historical%20Free%20labels-111827?style=for-the-badge&labelColor=0b1220" alt="Historical room count"/>
+<img src="https://img.shields.io/badge/STATUS-VERIFY%20ACCESS-111827?style=for-the-badge&labelColor=0b1220" alt="Verification status"/>
+
+</div>
+
+A prerequisite-first TryHackMe roadmap built for actual skill development, not badge collection.
+
+<details>
+<summary><strong>⚡ Quick navigation</strong></summary>
+
+How this roadmap works
+
+Learning phases
+
+How to use the order
+
+Verification policy
+
+Phase 01
+
+Phase 02
+
+Phase 03
+
+Phase 04
+
+Phase 05
+
+Phase 06
+
+Phase 07
+
+Phase 08
+
+Phase 09
+
+Phase 10
+
+Phase 11
+
+Phase 12
+
+Phase 13
+
+Phase 14
+
+</details>
+
+<div align="center">
+
+LEARN → REPRODUCE → CHALLENGE → DOCUMENT
+
+<img src="https://progress-bar.dev/648/?title=historical%20free-labelled%20rooms&width=700&color=00f7ff&suffix=%20rooms" alt="648 room progress bar"/>
+
+</div>
+
+Reality check: GitHub Markdown cannot run arbitrary JavaScript or CSS animations. The animation here is built from GitHub-safe rendered images, animated SVG/GIF-style external assets, collapsible sections, badges, and progressive visual hierarchy. No fake CSS circus pretending Markdown is a web app.
 
 Important access-status warning
 
@@ -9538,3 +9609,12 @@ Verified current Free count: not established by the supplied research
 Known current paid examples removed from the Free claim: Services, Support, Attacktive Directory, Probe, Epoch, Confidential, Committed, Active Directory Basics, Sysmon, Blue Team Perspective, Subdomain Enumeration
 Safe interpretation: use the roadmap for learning order, but verify every room's current access status before relying on it as Free-only training.
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F7FF,50:7C3AED,100:00F7FF" alt="Animated roadmap divider"/>
+
+<br/>
+
+<sub>Built as a learning sequence. Verify room access before relying on any access label.</sub>
+
+</div>
