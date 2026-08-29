@@ -1,5 +1,4 @@
 <div align="center">
-
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=1000&color=00F3FF&center=true&vCenter=true&width=800&height=60&lines=🧬+HIDDEN+EYE+CYBER+RESEARCH+🧬;INITIATING+PROJECT+SYNAPSE...;ESTABLISHING+SECURE+UPLINK..." alt="Typing SVG" /></a><br>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&pause=2000&color=FF0055&center=true&vCenter=true&width=800&height=40&lines=Advanced+Threat+Analysis+Roadmap;660+Anomalies+Detected;Awaiting+Analyst+Input_" alt="Typing SVG" /></a>
